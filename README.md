@@ -21,7 +21,6 @@ O desafio proposto foi criar uma página onde teria um cardápio de um restauran
 ## Página na web
 
 - [QR Code](https://github.com/gustavommatos/maratona-explorer-3/blob/main/qrcode/frame.png?raw=true)
-- [Site](https://gregarious-peony-8545b9.netlify.app/)
 
 
 
