@@ -10,16 +10,13 @@ O desafio proposto foi criar uma página onde teria um cardápio de um restauran
 
 ## Tecnologias e ferramentas utilizadas
 
-<p>Ferramentas utilizadas para escrever o código:</p>
 - [VS Code](https://code.visualstudio.com/download)
 - [Front-end Editor](https://www.fronteditor.dev/)
-<p>Liguagens utilizadas:</p>
-- HTML5 | Liguagem de marcação
-- CSS3 | Linguagem de estilização
-<p>Ferramenta para obter fontes:</p>
+- HTML5
+- CSS3
 - [Google Fonts](https://fonts.google.com/)
-<p>Ferramenta para publicar a página:</p>
-- [Netlify]()
+- [Netlify](https://www.netlify.com/)
+- [QR Code Generator](https://br.qr-code-generator.com/)
 
 ## Página na web
 
