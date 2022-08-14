@@ -23,7 +23,10 @@ Ferramenta para obter fontes:
 Ferramenta para publicar a página:
 - [Netlify]()
 
-## Link da página na web
+## Página na web
 
-https://gregarious-peony-8545b9.netlify.app/
+[QR Code](https://github.com/gustavommatos/maratona-explorer-3/blob/main/qrcode/frame.png?raw=true)
+[Site](https://gregarious-peony-8545b9.netlify.app/)
+
+
 
