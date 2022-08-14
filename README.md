@@ -25,8 +25,8 @@ Ferramenta para publicar a página:
 
 ## Página na web
 
-[QR Code](https://github.com/gustavommatos/maratona-explorer-3/blob/main/qrcode/frame.png?raw=true)
-[Site](https://gregarious-peony-8545b9.netlify.app/)
+- [QR Code](https://github.com/gustavommatos/maratona-explorer-3/blob/main/qrcode/frame.png?raw=true)
+- [Site](https://gregarious-peony-8545b9.netlify.app/)
 
 
 
