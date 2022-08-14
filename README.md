@@ -23,7 +23,7 @@ Ferramenta para obter fontes:
 Ferramenta para publicar a página:
 - [Netlify]()
 
-## Link do projeto
+## Link da página na web
 
-
+https://gregarious-peony-8545b9.netlify.app/
 
