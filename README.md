@@ -6,7 +6,11 @@ Abaixo deixo o detalhamento do projeto que desenvolvi.
 
 ## Sua Adega
 
-O desafio proposto foi criar uma página onde teria um cardápio de um restaurante, no final, iriamos criar um link e um QR Code para que as pessoas possam acessá-lo. Decidi fazer um pouco diferente, montar uma página com promoções semanais e mensais de uma adega de vinhos, que poderia ser utilizada em uma camisa, por exemplo.
+O desafio proposto foi criar uma página de cardápio digital para um restaurante utilizando HTML e CSS, no final, iriamos criar um link e vincular a um QR Code para que as pessoas possam acessá-lo. Complementei com algumas funcionalidades de lista com JavaScript.
+
+Caso deseje visualizar a página, deixo abaixo o link do modelo desenvolvido e uma imagem.
+[Link da página](https://gregarious-peony-8545b9.netlify.app/)
+![image](https://github.com/gustavommatos/cardapio_digital/assets/65467858/0c2ad28d-49e7-4980-9d85-e135a8e9f289)
 
 ## Tecnologias e ferramentas utilizadas
 
@@ -21,6 +25,3 @@ O desafio proposto foi criar uma página onde teria um cardápio de um restauran
 ## Página na web
 
 - [QR Code](https://github.com/gustavommatos/maratona-explorer-3/blob/main/qrcode/frame.png?raw=true)
-
-
-
