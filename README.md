@@ -4,7 +4,7 @@ Na semana da Maratona Explorer 3.0 da [Rocketseat](https://www.rocketseat.com.br
 
 Abaixo deixo o detalhamento do projeto que desenvolvi.
 
-## Sua Adega
+## Seu Restaurante
 
 O desafio proposto foi criar uma página de cardápio digital para um restaurante utilizando HTML e CSS, no final, iriamos criar um link e vincular a um QR Code para que as pessoas possam acessá-lo. Complementei com algumas funcionalidades de lista com JavaScript.
 
