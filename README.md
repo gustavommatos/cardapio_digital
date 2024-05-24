@@ -1,17 +1,19 @@
-# Maratorna Explorer
+# Resumo
 
-Na semana da Maratona Explorer 3.0 da [Rocketseat](https://www.rocketseat.com.br/) aprendi a estruturar uma página utilizando o HTML5 e estilizá-la com CSS3.
+O projeto consiste em uma página de cardápio digital responsiva com objetivo de ser disponibilizada através de QR Code em restaurantes.
 
-Abaixo deixo o detalhamento do projeto que desenvolvi.
+Foi desenvolvido na Maratona Explorer 3.0 da [Rocketseat](https://www.rocketseat.com.br/), onde pus em pratica o conhecimento adquirido para estruturar a página utilizando o HTML5 e estilizá-la com CSS3.
+
+Abaixo deixo mais detalhes sobre.
 
 ## Seu Restaurante
 
-O desafio proposto foi criar uma página de cardápio digital para um restaurante utilizando HTML e CSS, no final, iriamos criar um link e vincular a um QR Code para que as pessoas possam acessá-lo. Complementei com algumas funcionalidades de lista com JavaScript.
+Como descrito anteriormente, o desafio proposto foi criar uma página de cardápio digital para um restaurante utilizando HTML e CSS, no final, criar um link e vincular a um QR Code para que as pessoas possam acessá-lo.
 
 Caso deseje visualizar a página, deixo abaixo o link do modelo e uma imagem de representação.
 |[Clique aqui para acessar a página.](https://gregarious-peony-8545b9.netlify.app/)|
 | --- |
-|![image](https://github.com/gustavommatos/cardapio_digital/assets/65467858/0c2ad28d-49e7-4980-9d85-e135a8e9f289)|
+|![image](https://github.com/gustavommatos/cardapio_digital/assets/65467858/d592c443-c684-4bba-aa9c-f3e786ddcb6f)|
 
 ## Tecnologias e ferramentas utilizadas
 

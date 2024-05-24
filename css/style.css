@@ -2,11 +2,12 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 /* BODY */
 body {
-    background-color: #722f37;
+    background: linear-gradient(to bottom, #722f37, #5b232d);
     font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -14,15 +15,17 @@ ul {
     list-style: none;
 }
 
-/* FONTS */
+/* FONTES */
 h1, h3, .price {
     font-family: 'Source Sans Pro', serif;
     text-transform: uppercase;
     color: #F5DEB3;
 }
+
 h2 {
     color: #722f37;
 }
+
 p {
     color: #DCDCDC;
 }
@@ -32,6 +35,7 @@ header {
     padding: 32px 0;
     text-align: center;
 }
+
 header,
 section {
     max-width: 300px;
@@ -43,6 +47,7 @@ header h1 {
     font-size: 28px;
     line-height: 33px;
 }
+
 header p {
     font-size: 14px;
     line-height: 16px;
@@ -53,18 +58,39 @@ section {
     margin-bottom: 24px;
 }
 
-section h2{
+.menu-category {
     background-color: #FED7AA;
-    padding: 8px 16px;
-    text-align: center;
+    color: #722f37;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
 
-    margin-bottom: 24px;
+.menu-category.alimentos {
+    border-radius: 8px 8px 0 0;
+}
+
+.menu-category.bebidas {
+    border-radius: 0;
 }
 
 /* LISTA */
 ul li {
     margin-bottom: 16px;
     display: flex;
+    padding: 8px;
+    border: 1px solid #F5DEB3;
+    border-radius: 8px;
+}
+
+.panel.alimentos ul li:first-child,
+.panel.bebidas ul li:first-child {
+    margin-top: 8px;
 }
 
 li .details {
@@ -73,56 +99,17 @@ li .details {
 
 .details h3 {
     margin-bottom: 8px;
-    font-size: 16px
+    font-size: 16px;
 }
 
 .details p {
-  font-size: 14px;
-  line-height: 21px;
+    font-size: 14px;
+    line-height: 21px;
 }
 
-/* Style the buttons that are used to open and close the accordion panel */
-.accordion {
-    background-color: #FED7AA;
-    color: #722f37;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-  }
-  
-  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-  .active, .accordion:hover {
-    background-color: #ffffff;
-  }
-  
-  /* Style the accordion panel. Note: hidden by default */
-  .panel {
+/* Estilização do painel */
+.panel {
     padding: 0 18px;
     background-color: #722f37;
-    display: none;
     overflow: hidden;
-  }
-
-  .panel {
-    padding: 0 18px;
-    background-color: #722f37;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-  }
-  
-  .accordion:after {
-    content: '\02795'; /* Unicode character for "plus" sign (+) */
-    font-size: 13px;
-    color: #722f37;
-    float: right;
-    margin-left: 5px;
-  }
-  
-  .active:after {
-    content: "\2796"; /* Unicode character for "minus" sign (-) */
-  }
+}
