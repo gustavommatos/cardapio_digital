@@ -11,13 +11,9 @@ Abaixo deixo mais detalhes sobre.
 Como descrito anteriormente, o desafio proposto foi criar uma página de cardápio digital para um restaurante utilizando HTML e CSS, no final, criar um link e vincular a um QR Code para que as pessoas possam acessá-lo.
 
 Caso deseje visualizar a página, deixo abaixo o link do modelo e uma imagem de representação.
-|<a href="https://gregarious-peony-8545b9.netlify.app/">
-  <img
-    src="https://github.com/gustavommatos/cardapio_digital/assets/65467858/12afe926-c805-4ea5-ba4c-dbbe666f3819"
-    alt="Clique aqui para acessar a página." />
-</a>|
-| --- |
-|![image](https://github.com/gustavommatos/cardapio_digital/assets/65467858/d592c443-c684-4bba-aa9c-f3e786ddcb6f)|
+|[QR Code de acesso](https://gregarious-peony-8545b9.netlify.app/)|Imagem demonstração|
+| --- | --- |
+|![frame](https://github.com/gustavommatos/cardapio_digital/assets/65467858/8d295bb8-5dd4-478c-a26d-7cc8b9f64f25)|![image](https://github.com/gustavommatos/cardapio_digital/assets/65467858/d592c443-c684-4bba-aa9c-f3e786ddcb6f)|
 
 ## Tecnologias e ferramentas utilizadas
 
